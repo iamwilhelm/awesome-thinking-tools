@@ -32,12 +32,21 @@
 
 ### What is Programming?
 
+- [Three Tribes of Programming](https://josephg.com/blog/3-tribes/) by Joseph Gentle
 - [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur
 - [On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc) by Shriram Krishnamurthi
 
 ### Why is programming so hard?
 
-- [Out of the Tar Pit Summary](https://blog.acolyer.org/2015/03/20/out-of-the-tar-pit/)
+- [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) by Fred Brooks
+  - [Summary](https://blog.acolyer.org/2016/09/06/no-silver-bullet-essence-and-accident-in-software-engineering/) by Adrian Colyer
+- [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf) by Ben Moseley and Peter Marks
+  - [Summary](https://blog.acolyer.org/2015/03/20/out-of-the-tar-pit/) by Adrian Colyer
+- [Learnable Programming](http://worrydream.com/LearnableProgramming/) by Bret Victor
+- [Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) by Joel Spolsky
+- [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/) by Bret Victor
+- [Yes You should Understand Backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.lbzzq2acs) by Andrej Karpathy
+- [Tangible Functional Programming [video]](https://www.youtube.com/watch?v=faJ8N0giqzw) by 
 - [The faster you unlearn Object-Orientated Programming the better for you](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
 
 ### What's wrong with notebooks?
