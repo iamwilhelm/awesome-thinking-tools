@@ -21,20 +21,20 @@
 - [Toward an exploratory medium for mathematics](http://cognitivemedium.com/emm/emm.html) by Michael Nielsen
 - [Against the Current](https://observablehq.com/@jashkenas/against-the-current-what-we-learned-from-eve-transcript) by Chris Granger
 - [Coding is Not the New Literacy](https://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/) by Chris Granger
-
 - [Eve: tackling a giant with a change in perspective [video]](https://www.youtube.com/watch?v=a_o-ZzgpiK8) by Chris Granger
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) by Bret Victor
 - [Media for Thinking the Unthinkable](https://www.youtube.com/watch?v=oUaOucZRlmE) by Bret Victor
-- [Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor
 - [Kill Math](http://worrydream.com/KillMath/) by Bret Victor
-- [Constraint Logic Propagation Conflict Spreadsheets](https://www.youtube.com/watch?v=voG5-15aDu4) By William Taysom
-- [Future of Software](https://pchiusano.github.io/2013-05-22/future-of-software.html) By Paul Chiusano
+- [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) by Andy Matuschak and Michael Neilsen
+- [Intuition Pumps [video]](https://www.youtube.com/watch?v=4Q_mY54hjM0) by Daniel Dennett
+- 
 
 ### What is Programming?
 
 - [Three Tribes of Programming](https://josephg.com/blog/3-tribes/) by Joseph Gentle
 - [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur
 - [On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc) by Shriram Krishnamurthi
+- [Systems not Programs](https://shalabh.com/programmable-systems/systems-not-programs.html) by Shalabh Chaturvedi
 
 ### Why is programming so hard?
 
@@ -46,8 +46,18 @@
 - [Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) by Joel Spolsky
 - [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/) by Bret Victor
 - [Yes You should Understand Backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.lbzzq2acs) by Andrej Karpathy
-- [Tangible Functional Programming [video]](https://www.youtube.com/watch?v=faJ8N0giqzw) by 
+- [Tangible Functional Programming [video]](https://www.youtube.com/watch?v=faJ8N0giqzw) by Conal Elliot
+- [We don't really know how to compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute/) by Gary Sussman
 - [The faster you unlearn Object-Orientated Programming the better for you](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
+- [The Power to Create Chaos](https://hal.archives-ouvertes.fr/hal-02071770/document) by Konrad Hinsen
+- [The problem with programming and how to fix it](https://alarmingdevelopment.org/?p=1173) by Jonathan Edwards
+
+### Future of Programming
+
+- [Future of Software](https://pchiusano.github.io/2013-05-22/future-of-software.html) By Paul Chiusano
+- [Constraint Logic Propagation Conflict Spreadsheets](https://www.youtube.com/watch?v=voG5-15aDu4) By William Taysom
+- [Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor
+- 
 
 ### What's wrong with notebooks?
 
@@ -59,13 +69,9 @@
 - [I see what you mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) by Peter Alvaro
 - [Serverless: slower and more expensive](http://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/)
 
-### Courses
+## History
 
-- [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/) by Chris Novello at RISD
-
-- 
-
-
+- [Xerox Star User Interface [video] Part 1](https://www.youtube.com/watch?v=Cn4vC80Pv6Q) [Part 2](https://www.youtube.com/watch?v=ODZBL80JPqw)
 
 ### Datalog
 
@@ -94,26 +100,70 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [Ceu Lang](http://ceu-lang.org/) - Structured Synchronous Reactive Programming
 
+### LogicBlox
+
+- [LogicBlox](https://developer.logicblox.com/)
+
+### Dyna
+
+- [Dyna](http://www.cs.jhu.edu/%7Enwf/datalog20-paper.pdf)
+
+### Imp
+
+- [Imp: sets and funs](https://scattered-thoughts.net/writing/imp-sets-and-funs/)
+- [Imp: denotional semantics](https://scattered-thoughts.net/writing/imp-denotational-semantics/)
+
+### Alloy
+
+- [Alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Formal methods
+
+### Tree Notation
+
+- [TreeNotation](https://treenotation.org/) - 
+- [FAQ](http://faq.treenotation.org/)
+- [TreeBase](https://jtree.treenotation.org/treeBase/)
+
+### Bel
+
+- [Bel](http://paulgraham.com/bel.html) - Lisp variant going hard on formalism
+- [Guide](https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1570888282&)
+- [Source](https://sep.yimg.com/ty/cdn/paulgraham/bel.bel?t=1570888282&)
+
 ## Technologies
 
 - Differential Dataflow
   - [Six graph algorithms in differential dataflow](https://www.youtube.com/watch?time_continue=1&v=iW1GNY_S6xc)
+  - [Frank McSherry's Blog](https://github.com/frankmcsherry/blog)
+  - [Differential Datalog](https://github.com/vmware/differential-datalog) by Vmware
+  - [Datafrog](https://github.com/frankmcsherry/datafrog) by Frank McSherry
 - Bloom
   - [Bud](https://github.com/bloom-lang/bud) - Bloom prototype in Ruby
 
 ## Applications
 
-- [Excel](#section) - Microsoft's Popular Spreadsheet
 - [MakerPad](https://www.makerpad.co/)
 - [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized. 
+- [MintData](https://mintdata.com)
+- [Hyperfiddle](http://www.hyperfiddle.net/:quick-start)
+  - [CRUD UI definition](https://gist.github.com/dustingetz/654e502340070280ab9744723a8ae250)
 
 ### Notebooks
 
 - [Jupyter](https://jupyter.org/)
 - [Observable](https://observablehq.com/)
+- [Streamlit](https://streamlit.io/)
+- [Grid Studio](https://github.com/ricklamers/gridstudio)
+  - [Announcement](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
+- [Hyperfiddle](http://www.hyperfiddle.net/:quick-start)
+
+### SpreadSheets
+
+- [Excel](#section) - Microsoft's Popular Spreadsheet
+- [Mesh Spreadsheet](http://mesh-spreadsheet.com/)
 
 ## Projects
 
+- [Spreadsheet of list of current projects](https://github.com/markdewing/next_steps_in_programming/blob/master/programming_by_transformations.md) <- Triage
 - [Dynamicland](https://dynamicland.org/) - The building is the computer
 - [Hivemind](https://gitlab.com/cmontella/hivemind) - By Corey Montella, taking some of the lessons he learned from Eve 
 - [SIEUFERD: A Visual Query System](https://www.youtube.com/watch?v=W6xmqcb8hFQ)
@@ -121,10 +171,21 @@ About this section. Optional. Keep this short and focus on the list.
   - [How Dat Works](https://datprotocol.github.io/how-dat-works/)
 - Apparatus
   - [Apparatus: A Hybrid Graphics Editor](https://www.youtube.com/watch?v=i3Xack9ufYk) by Toby Schachman
+- Project Mentat [deprecated]
+  - [Introducing Project Mentat, a flexible embedded knowledge store](https://medium.com/project-tofino/introducing-datomish-a-flexible-embedded-knowledge-store-1d7976bff344)
+  - [Mentat Github](https://github.com/mozilla/mentat)
+  - [HN Discussion](https://news.ycombinator.com/item?id=13568559)
 
 ## People
 
 - [Michael Nielsen](http://michaelnielsen.org)
+- [Andy Matuschak](https://andymatuschak.org/)
+
+## Reading lists
+
+- [Functional, Reactive, and Distributed Systems Bibliography](https://gist.github.com/brendanzab/a6073e73f751a6ca9750f960a92f2afe)
+- [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/) by Chris Novello at RISD
+- [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html) by Christopher Meiklejohn
 
 ## Contribute
 
