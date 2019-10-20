@@ -27,7 +27,7 @@
 - [Kill Math](http://worrydream.com/KillMath/) by Bret Victor
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) by Andy Matuschak and Michael Neilsen
 - [Intuition Pumps [video]](https://www.youtube.com/watch?v=4Q_mY54hjM0) by Daniel Dennett
-- 
+- [Putting Turing to Work [video]](https://www.heidelberg-laureate-forum.org/video/lecture-putting-turing-to-work.html) by Alan Kay
 
 ### What is Programming?
 
@@ -51,13 +51,14 @@
 - [The faster you unlearn Object-Orientated Programming the better for you](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
 - [The Power to Create Chaos](https://hal.archives-ouvertes.fr/hal-02071770/document) by Konrad Hinsen
 - [The problem with programming and how to fix it](https://alarmingdevelopment.org/?p=1173) by Jonathan Edwards
+- [Compression, Complexity and Software System Design](https://theartofmachinery.com/2017/06/25/compression_complexity_and_software.html) by Simon Arneaud
 
 ### Future of Programming
 
 - [Future of Software](https://pchiusano.github.io/2013-05-22/future-of-software.html) By Paul Chiusano
 - [Constraint Logic Propagation Conflict Spreadsheets](https://www.youtube.com/watch?v=voG5-15aDu4) By William Taysom
 - [Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor
-- 
+- [B-thread programming](https://medium.com/@lmatteis/b-threads-programming-in-a-way-that-allows-for-easier-changes-5d95b9fb6928) by Luca Metteis
 
 ### What's wrong with notebooks?
 
@@ -73,69 +74,44 @@
 
 - [Xerox Star User Interface [video] Part 1](https://www.youtube.com/watch?v=Cn4vC80Pv6Q) [Part 2](https://www.youtube.com/watch?v=ODZBL80JPqw)
 
-### Datalog
+### Languages
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [pyDatalog](https://sites.google.com/site/pydatalog/home) - (Python) Datalog implementation in Python
-- [Soufflé](https://souffle-lang.github.io/) - (C) Logic programming for Static analysis
-- [nlDatalog](https://github.com/harc/nl-datalog) - HARC implementation of Datalog
-
-### Eve
+- Datalog
+  - [pyDatalog](https://sites.google.com/site/pydatalog/home) - (Python) Datalog implementation in Python
+  - [Soufflé](https://souffle-lang.github.io/) - (C) Logic programming for Static analysis
+  - [nlDatalog](https://github.com/harc/nl-datalog) - HARC implementation of Datalog
 
 - [Eve](https://witheve.com) - Rethinking programming
+  - [0.2 Reference](http://docs-next.witheve.com/v0.2/)
+  - [0.3 Reference](http://docs-next.witheve.com/v0.3/)
   - [Eve Series Part I: How Eve unifies your entire programming stack](https://hackernoon.com/how-eve-unifies-your-entire-programming-stack-900ca80c58a7)
   - [Eve Series Part II: When Logic Programming Meets CQRS](https://hackernoon.com/when-logic-programming-meets-cqrs-1137ab2a5f86)
   - [Eve Series Part III: Throwing off our scope chains](https://hackernoon.com/throwing-off-our-scope-chains-7567beb2d0b6)
   - [Eve Series Part Iv: Smalltalk and protein programming](https://hackernoon.com/smalltalk-and-protein-programming-4da245ac93e2)
   - [Eve Series Part V: The rock-solid foundation for Eve's big vision](https://hackernoon.com/the-rock-solid-foundation-for-eves-big-vision-225b80b91e11)
   - [Eve Series Part VI: Why Eve will be perfect for real-time apps](https://hackernoon.com/why-eve-will-be-perfect-for-realtime-apps-92b965b80ad)
-- [After Eve](http://scattered-thoughts.net/blog/2016/01/17/after-eve/) - Jamie Branson
-
-### Precept
+  - [After Eve](http://scattered-thoughts.net/blog/2016/01/17/after-eve/) - Jamie Branson
+  - [Eve Concerns](https://news.ycombinator.com/item?id=10995235#10996541) - 
 
 - [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework
 
-### Ceu
-
 - [Ceu Lang](http://ceu-lang.org/) - Structured Synchronous Reactive Programming
 
-### LogicBlox
+- [Dyna](http://www.cs.jhu.edu/%7Enwf/datalog20-paper.pdf) - extending Datalog for modern AI
 
-- [LogicBlox](https://developer.logicblox.com/)
+- [Imp: sets and funs](https://scattered-thoughts.net/writing/imp-sets-and-funs/) - an emacs-y live self-modifying environment for working with structured data across multiple devices
+  - [denotional semantics](https://scattered-thoughts.net/writing/imp-denotational-semantics/)
 
-### Dyna
+- [Alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Formal methods for verifying code execution
 
-- [Dyna](http://www.cs.jhu.edu/%7Enwf/datalog20-paper.pdf)
-
-### Imp
-
-- [Imp: sets and funs](https://scattered-thoughts.net/writing/imp-sets-and-funs/)
-- [Imp: denotional semantics](https://scattered-thoughts.net/writing/imp-denotational-semantics/)
-
-### Alloy
-
-- [Alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Formal methods
-
-### Tree Notation
-
-- [TreeNotation](https://treenotation.org/) - 
-- [FAQ](http://faq.treenotation.org/)
-- [TreeBase](https://jtree.treenotation.org/treeBase/)
-
-### Bel
+- [TreeNotation](https://treenotation.org/) - A notation for writing code with two dimensions
+  - [FAQ](http://faq.treenotation.org/)
+  - [TreeBase](https://jtree.treenotation.org/treeBase/)
 
 - [Bel](http://paulgraham.com/bel.html) - Lisp variant going hard on formalism
-- [Guide](https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1570888282&)
-- [Source](https://sep.yimg.com/ty/cdn/paulgraham/bel.bel?t=1570888282&)
-
-## Technologies
-
-- Differential Dataflow
-  - [Six graph algorithms in differential dataflow](https://www.youtube.com/watch?time_continue=1&v=iW1GNY_S6xc)
-  - [Frank McSherry's Blog](https://github.com/frankmcsherry/blog)
-  - [Differential Datalog](https://github.com/vmware/differential-datalog) by Vmware
-  - [Datafrog](https://github.com/frankmcsherry/datafrog) by Frank McSherry
+  - [Guide](https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1570888282&)
+  - [Source](https://sep.yimg.com/ty/cdn/paulgraham/bel.bel?t=1570888282&)
+- [LogLisp](https://pdfs.semanticscholar.org/13d4/0039004d397ade1b6151945eab371b98ec7c.pdf) - Attempt to merge functional (lisp) with relational (prolog)
 - Bloom
   - [Bud](https://github.com/bloom-lang/bud) - Bloom prototype in Ruby
 
@@ -163,7 +139,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Projects
 
-- [Spreadsheet of list of current projects](https://github.com/markdewing/next_steps_in_programming/blob/master/programming_by_transformations.md) <- Triage
 - [Dynamicland](https://dynamicland.org/) - The building is the computer
 - [Hivemind](https://gitlab.com/cmontella/hivemind) - By Corey Montella, taking some of the lessons he learned from Eve 
 - [SIEUFERD: A Visual Query System](https://www.youtube.com/watch?v=W6xmqcb8hFQ)
@@ -175,6 +150,18 @@ About this section. Optional. Keep this short and focus on the list.
   - [Introducing Project Mentat, a flexible embedded knowledge store](https://medium.com/project-tofino/introducing-datomish-a-flexible-embedded-knowledge-store-1d7976bff344)
   - [Mentat Github](https://github.com/mozilla/mentat)
   - [HN Discussion](https://news.ycombinator.com/item?id=13568559)
+- [Aquameta](https://github.com/aquametalabs/aquameta) - Entire web stack implemented in Postgres
+
+## Technologies
+
+- Timely Dataflow
+  - [Timely Dataflow Tutorial](https://timelydataflow.github.io/timely-dataflow/)
+- Differential Dataflow
+  - [Differential Dataflow Tutorial](https://timelydataflow.github.io/differential-dataflow/)
+  - [Six graph algorithms in differential dataflow](https://www.youtube.com/watch?time_continue=1&v=iW1GNY_S6xc)
+  - [Frank McSherry's Blog](https://github.com/frankmcsherry/blog)
+  - [Differential Datalog](https://github.com/vmware/differential-datalog) by Vmware
+  - [Datafrog](https://github.com/frankmcsherry/datafrog) by Frank McSherry
 
 ## People
 
@@ -186,6 +173,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Functional, Reactive, and Distributed Systems Bibliography](https://gist.github.com/brendanzab/a6073e73f751a6ca9750f960a92f2afe)
 - [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/) by Chris Novello at RISD
 - [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html) by Christopher Meiklejohn
+- [Spreadsheet of list of current projects](https://github.com/markdewing/next_steps_in_programming/blob/master/programming_by_transformations.md) <- Triage
 
 ## Contribute
 
