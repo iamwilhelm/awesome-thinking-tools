@@ -112,6 +112,7 @@
   - [Guide](https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1570888282&)
   - [Source](https://sep.yimg.com/ty/cdn/paulgraham/bel.bel?t=1570888282&)
 - [LogLisp](https://pdfs.semanticscholar.org/13d4/0039004d397ade1b6151945eab371b98ec7c.pdf) - Attempt to merge functional (lisp) with relational (prolog)
+- [Userland](https://hisham.hm/userland/) - Spreadsheet-like Terminal
 - Bloom
   - [Bud](https://github.com/bloom-lang/bud) - Bloom prototype in Ruby
 
@@ -131,6 +132,8 @@
 - [Grid Studio](https://github.com/ricklamers/gridstudio)
   - [Announcement](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
 - [Hyperfiddle](http://www.hyperfiddle.net/:quick-start)
+- [Polynote](https://polynote.org/) - Notebook to leverage Scala
+  - [Annoucement](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
 
 ### SpreadSheets
 
