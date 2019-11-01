@@ -80,7 +80,6 @@
   - [pyDatalog](https://sites.google.com/site/pydatalog/home) - (Python) Datalog implementation in Python
   - [Soufflé](https://souffle-lang.github.io/) - (C) Logic programming for Static analysis
   - [nlDatalog](https://github.com/harc/nl-datalog) - HARC implementation of Datalog
-
 - [Eve](https://witheve.com) - Rethinking programming
   - [0.2 Reference](http://docs-next.witheve.com/v0.2/)
   - [0.3 Reference](http://docs-next.witheve.com/v0.3/)
@@ -92,22 +91,15 @@
   - [Eve Series Part VI: Why Eve will be perfect for real-time apps](https://hackernoon.com/why-eve-will-be-perfect-for-realtime-apps-92b965b80ad)
   - [After Eve](http://scattered-thoughts.net/blog/2016/01/17/after-eve/) - Jamie Branson
   - [Eve Concerns](https://news.ycombinator.com/item?id=10995235#10996541) - 
-
 - [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework
-
 - [Ceu Lang](http://ceu-lang.org/) - Structured Synchronous Reactive Programming
-
 - [Dyna](http://www.cs.jhu.edu/%7Enwf/datalog20-paper.pdf) - extending Datalog for modern AI
-
 - [Imp: sets and funs](https://scattered-thoughts.net/writing/imp-sets-and-funs/) - an emacs-y live self-modifying environment for working with structured data across multiple devices
   - [denotional semantics](https://scattered-thoughts.net/writing/imp-denotational-semantics/)
-
 - [Alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Formal methods for verifying code execution
-
 - [TreeNotation](https://treenotation.org/) - A notation for writing code with two dimensions
   - [FAQ](http://faq.treenotation.org/)
   - [TreeBase](https://jtree.treenotation.org/treeBase/)
-
 - [Bel](http://paulgraham.com/bel.html) - Lisp variant going hard on formalism
   - [Guide](https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1570888282&)
   - [Source](https://sep.yimg.com/ty/cdn/paulgraham/bel.bel?t=1570888282&)
@@ -115,6 +107,7 @@
 - [Userland](https://hisham.hm/userland/) - Spreadsheet-like Terminal
 - Bloom
   - [Bud](https://github.com/bloom-lang/bud) - Bloom prototype in Ruby
+- [Dex](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family        
 
 ## Applications
 
@@ -134,6 +127,7 @@
 - [Hyperfiddle](http://www.hyperfiddle.net/:quick-start)
 - [Polynote](https://polynote.org/) - Notebook to leverage Scala
   - [Annoucement](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
+- [Swish](https://swish.swi-prolog.org/) - Notebook for Prolog
 
 ### SpreadSheets
 
@@ -154,6 +148,13 @@
   - [Mentat Github](https://github.com/mozilla/mentat)
   - [HN Discussion](https://news.ycombinator.com/item?id=13568559)
 - [Aquameta](https://github.com/aquametalabs/aquameta) - Entire web stack implemented in Postgres
+- **Need to do Curate** Of the projects circulating around this community I see
+  \- Kayia/Kaya [@David Broderick](https://futureofcoding.slack.com/team/UJCHWTMH6) [@David](https://futureofcoding.slack.com/team/U8A87T2NQ)
+  \- Hilltop [@Dan Swirsky](https://futureofcoding.slack.com/team/UEP7RL0HX)
+  \- Infusion [@Bosmon](https://futureofcoding.slack.com/team/UEH6T3RJB)
+  \- Maraca [@jon](https://futureofcoding.slack.com/team/UJDQKSSJ0)
+  \- Mech [@Corey](https://futureofcoding.slack.com/team/UCGR73CAY)
+  That may be similar to Eve and Onex in this regard. Perhaps the authors could 
 
 ## Technologies
 
